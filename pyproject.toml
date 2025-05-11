@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdf-utils"
+version = "0.1.0"
+description = "Short description"
+authors = [
+  { name="Ayush Nandanwar", email="ayushnandanwar003@gmail.com" }
+]
+readme = "README.md"
+license = { file="LICENSE" }
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/ayushnandanwar/pdf-util"
